@@ -1,5 +1,7 @@
 # ETTS_Demonstration
-for showing demonstration of emotional text-to-speech in VR
+Demonstration of emotional text-to-speech in VR
+
+You can check the related models in [survey (ETTS)](https://docs.google.com/document/d/1L-RAx5Hvig_Vhw9nAmLkuEQhZPz8bIqS-hlJW2zPfNk/edit?usp=sharing)
 
 ### Example Audio files
 
