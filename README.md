@@ -1,6 +1,7 @@
 # ETTS_Demonstration
 for showing demonstration of emotional text-to-speech in VR
 
+##audio files
     .
     ├── ...
     ├── audioFiles              # synythesized emotional speech audio files (script text: which drink you want today)
