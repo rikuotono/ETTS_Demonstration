@@ -15,4 +15,5 @@ Text of audioFiles1 is "how are you, what do you want to drink".
     │   ├── disgust.wav         # synthesized speech in disgust
     │   ├── neutral.wav         # synthesized speech in disgust
     │   └── sleepiness.wav      # synthesized speech in sleepiness
+    ├── audioFiles
     └── ...
