@@ -10,11 +10,3 @@ for showing demonstration of emotional text-to-speech in VR
 │   ├── neutral.wav         # synthesized speech in disgust
 │   └── sleepiness.wav      # synthesized speech in sleepiness
 └── ...
-    .
-    ├── build                   # Compiled files (alternatively `dist`)
-    ├── docs                    # Documentation files (alternatively `doc`)
-    ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)
-    ├── tools                   # Tools and utilities
-    ├── LICENSE
-    └── README.md
