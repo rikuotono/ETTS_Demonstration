@@ -8,8 +8,8 @@ for showing demonstration of emotional text-to-speech in VR
 │   ├── anger.wav           # synthesized speech in anger
 │   ├── disgust.wav         # synthesized speech in disgust
 │   ├── neutral.wav         # synthesized speech in disgust
-│   ├── sleepiness.wav      # synthesized speech in sleepiness
-
+│   └── sleepiness.wav      # synthesized speech in sleepiness
+└── ...
     .
     ├── build                   # Compiled files (alternatively `dist`)
     ├── docs                    # Documentation files (alternatively `doc`)
