@@ -19,7 +19,8 @@ Text of audioFiles1 is "how are you, what do you want to drink".
     └── ...
 
 ### Example demonstration video files
-Text of demonstration video is "how are you, what do you want to drink" same as audioFiles1.
+Text of demonstration video is "how are you, what do you want to drink" same as audioFiles1.  
+Virtual character's facial expression was determined based on FACS.
 
     .
     ├── ...
