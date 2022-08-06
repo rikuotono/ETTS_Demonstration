@@ -25,5 +25,7 @@ Text of demonstration video is "how are you, what do you want to drink" same as 
     ├── ...
     ├── demoVideos              # video of emotional speech with corresponding facial expression (script text: which drink you want today)
     │   ├── amused.mp4          # video of emotional speech with amused facial expression
+    │   ├── anger.mp4           # video of emotional speech with anger facial expression
+    │   ├── disgust.mp4         # video of emotional speech with disgust facial expression
     │   ├── neutral.mp4         # video of emotional speech with neutral facial expression
     └── ...
